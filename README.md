@@ -89,4 +89,16 @@ Each team member plays a vital role in ensuring the success of the project. Belo
 - **Scrum Master**: Facilitates agile processes, removes blockers, and ensures team efficiency.
 
 
+  ##  UI Component Patterns
+
+The project will use reusable and responsive components to ensure a consistent user interface. Key components include:
+
+- **Navbar**: Contains logo, search bar, and user navigation.
+- **Property Card**: Shows property image, price, location, and rating.
+- **Footer**: Includes site links, company info, and social icons.
+
+These components will be designed for clarity, accessibility, and reuse across pages.
+
+
+
 
