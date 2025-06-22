@@ -54,6 +54,22 @@ A user-friendly design is key to a successful booking experience. This section o
 | **Listing Details**    | Full property info with images, pricing, and booking form                   |
 | **Checkout**           | Simple page for payment and booking confirmation                            |
 
+
+## Color Styles
+
+- **Primary Color**: `#FF5A5F`
+- **Secondary Color**: `#008489`
+- **Background Color**: `#FFFFFF`
+- **Primary Text**: `#222222`
+- **Secondary Text**: `#717171`
+
+### Typography
+
+- **Font Family**: Circular
+- **Headings**: Bold (`700`), `24px–32px`
+- **Body Text**: Medium (`500`), `16px`
+- **Secondary Text**: Book (`400`), `14px`
+
 ###  Why User-Friendly Design Matters
 
 A clean, responsive interface improves navigation, boosts conversion rates, and enhances user satisfaction—especially on mobile. It ensures users can book with ease and confidence.
