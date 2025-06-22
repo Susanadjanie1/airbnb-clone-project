@@ -75,3 +75,18 @@ A user-friendly design is key to a successful booking experience. This section o
 A clean, responsive interface improves navigation, boosts conversion rates, and enhances user satisfaction—especially on mobile. It ensures users can book with ease and confidence.
 
 
+## Project Roles and Responsibilities
+
+Each team member plays a vital role in ensuring the success of the project. Below are the key roles and their responsibilities:
+
+- **Project Manager**: Oversees the project timeline, coordinates the team, and ensures deliverables are met.
+- **Frontend Developers**: Build responsive UI components, implement Figma designs, and ensure accessibility.
+- **Backend Developers**: Develop APIs, manage the database, and handle server-side logic.
+- **Designers**: Create UI/UX designs, define the design system, and ensure visual consistency.
+- **QA/Testers**: Write test cases, identify bugs, and ensure the app functions smoothly.
+- **DevOps Engineers**: Manage deployment, CI/CD pipelines, and server infrastructure.
+- **Product Owner**: Defines project requirements, prioritizes features, and represents user needs.
+- **Scrum Master**: Facilitates agile processes, removes blockers, and ensures team efficiency.
+
+
+
