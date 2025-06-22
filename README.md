@@ -26,3 +26,36 @@ Here are the main technologies we will use:
 * **Code Management:** Git and GitHub (for sharing and managing our code)
 * **Design:** Figma (for planning how the website will look)
 * **Tools:** Various build and testing tools to help us develop efficiently.
+
+
+##  UI/UX Design Planning
+
+A user-friendly design is key to a successful booking experience. This section outlines our design goals, core features, and primary pages.
+
+###  Design Goals
+
+- Intuitive booking flow
+- Visual consistency
+- Mobile-first responsiveness
+- Fast load times
+
+###  Key Features
+
+- Property search and filters
+- Detailed property view with images and booking form
+- Secure checkout process
+- User authentication
+
+###  Primary Pages
+
+| Page                   | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **Property Listing**   | Grid of available properties with filters and search bar                    |
+| **Listing Details**    | Full property info with images, pricing, and booking form                   |
+| **Checkout**           | Simple page for payment and booking confirmation                            |
+
+###  Why User-Friendly Design Matters
+
+A clean, responsive interface improves navigation, boosts conversion rates, and enhances user satisfaction—especially on mobile. It ensures users can book with ease and confidence.
+
+
